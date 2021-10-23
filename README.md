@@ -11,5 +11,5 @@ does so (which I intend to skip) so SICP it is.
 I am using the `sicp` package in Racket, which can be installed with or
 without `sudo`, depending on whether you want a system-wide or local
 installation, with `raco pkg install sicp`. To use it, make sure you have
-`#lang sicp` at the top of any source file, or in the editor window of
-DrRacket.
+`#lang sicp` at the top of any source file, or at the top of the editor window
+of DrRacket.
