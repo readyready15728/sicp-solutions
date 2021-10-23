@@ -1,5 +1,5 @@
 # SICP Solutions
-# Solutions to the legendary CS textbook Structure and Interpretation of Computer Programs
+## Solutions to the legendary CS textbook Structure and Interpretation of Computer Programs
 
 I thought *How to Design Programs* was going to be easier and maybe it is but
 I read somewhere that it uses some dumb picture language throughout whereas
